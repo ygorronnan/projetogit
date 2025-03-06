@@ -17,7 +17,7 @@ Most of the time I'm coding with Python, SQL or VBA. However, I've also had some
 ###
 
 <div align="center">
-  <a href="mailto:ygormiguel.reis@gmail.com">
+  <a href="mailto:ygorronnan@usp.br">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ygorronnan/">
