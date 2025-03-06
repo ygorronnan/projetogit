@@ -1,4 +1,5 @@
-Hello there! I hope you are well. Here are some of my personal projects, they might be interesting for you to see!
+<h2 align="center">Hello there! I hope you are well.</h2>
+Here are some of my personal projects, they might be interesting for you to see!
 
 Here a little bit about me:
 
@@ -11,5 +12,16 @@ The most part of the time I'm coding with Python, SQL or VBA. However, I also ha
 ###
 
 <h2 align="center">Contact</h2>
+
+###
+
+<div align="center">
+  <a href="mailto:ygormiguel.reis@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ygorronnan/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
