@@ -1,4 +1,5 @@
 <h2 align="center">Hello there! I hope you are well.</h2>
+
 Here are some of my personal projects, they might be interesting for you to see!
 
 A little bit about me:
